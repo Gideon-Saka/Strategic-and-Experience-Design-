@@ -30,25 +30,25 @@ Responsibilities:
 
 ### 1️⃣ Research Planning
 Defined research strategy suitable for tight timeline and budget.
-[View Reseach Plan (PDF)](./BCG/research%20plan.pdf)
+[View Reseach Plan (PDF)](./BCG/research-plan.pdf)
 
 ---
 
 ### 2️⃣ Research Execution Materials
 Prepared artifacts required to run ethical and structured research sessions.
-[View Interview Discussion Guide](./BCG/Interview%20guide%20.pdf)
+[View Interview Discussion Guide](./BCG/Interview-guide.pdf)
 
 ---
 
 ### 3️⃣ User Persona — Digital Native
 Created a persona based on ethnographic findings representing young female professionals in their mid-20s.
-[View Digital Native Persona](./BCG/digital%20native%20persona.pdf)
+[View Digital Native Persona](./BCG/digital-native-persona.pdf)
 
 ---
 
 ### 4️⃣ Concept Ideation
 Designed a low-fidelity concept communicating the proposed banking experience.
-1. [View Concept Poster](./BCG/Concept%20Poster.pdf)
+1. [View Concept Poster](./BCG/Concept-Poster.pdf)
 2. [View Wireframes](./BCG/wireframe.pdf)
 
 ---
