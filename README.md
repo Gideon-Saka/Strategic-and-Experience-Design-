@@ -48,10 +48,7 @@ Created a persona based on ethnographic findings representing young female profe
 
 ### 4️⃣ Concept Ideation
 Designed a low-fidelity concept communicating the proposed banking experience.
-1. [View Concept Poster](### 4️⃣ Concept Ideation
-Designed a low-fidelity concept communicating the proposed banking experience.
-
-📄 [Concept Poster](BCG/Concept%20Poster.pdf)
+1. [View Concept Poster](./BCG/Concept%20Poster.pdf)
 2. [View Wireframes](./BCG/wireframe.pdf)
 
 ---
