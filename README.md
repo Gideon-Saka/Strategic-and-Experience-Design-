@@ -29,38 +29,31 @@ Responsibilities:
 ## Project Structure
 
 ### 1️⃣ Research Planning
-
 Defined research strategy suitable for tight timeline and budget.
-
-📄 [Research Plan](./strategic-and-Experience-Design/research-plan.pdf)
+📄 [Research Plan](./BCG/research%20plan.pdf)
 
 ---
 
 ### 2️⃣ Research Execution Materials
-
 Prepared artifacts required to run ethical and structured research sessions.
-
-* 📄 [Interview Discussion Guide](./BCG/interview-guide.pdf)
+* 📄 [Interview Discussion Guide](./BCG/Interview%20guide%20.pdf)
 
 ---
 
 ### 3️⃣ User Persona — Digital Native
-
 Created a persona based on ethnographic findings representing young female professionals in their mid-20s.
-
-📄 [Digital Native Persona](./BCG/digital-native-persona.pdf)
+📄 [Digital Native Persona](./BCG/digital%20native%20persona.pdf)
 
 ---
 
 ### 4️⃣ Concept Ideation
-
 Designed a low-fidelity concept communicating the proposed banking experience.
+📄 [Concept Poster](./BCG/Concept%20Poster.pdf)
 
-📄 [Concept Poster](./BCG/concept-poster.pdf)
+---
 
-(Optional)
-📄 [Wireframes](./BCG/wireframes.pdf)
-
+### 5️⃣ Bonus
+📄 [Wireframes](./BCG/wireframe.pdf)
 ---
 
 
