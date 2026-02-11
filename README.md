@@ -32,7 +32,7 @@ Responsibilities:
 
 Defined research strategy suitable for tight timeline and budget.
 
-📄 [Research Plan](./BCG/research-plan.pdf)
+📄 [Research Plan](./strategic-and-Experience-Design/research-plan.pdf)
 
 ---
 
